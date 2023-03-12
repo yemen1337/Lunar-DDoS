@@ -4,9 +4,9 @@
  
 </p>
  DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
- Don't attack any websites you don't own it<br/>
- This was created for educational purposes<br/>
- All responsibilities and disadvantages of using this program is for the user.
+ Don't attack any websites you don't own.<br/>
+ This tool was created for educational purposes<br/>
+ You are responsible for your use of the service and for any content provided.
  
 </div>
 
